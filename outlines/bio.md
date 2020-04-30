@@ -1,1 +1,3 @@
 I work at USAA as a Senior Engineer building dev tools to help everyone be super productive. Teaching JavaScript fundamentals from beginning to excited is a personal passion. I host and produce the podcast JavaScript to Elm, to get the word out about types and the paradigm of functional programming. I have dad jokes for days.
+
+[Babel Macros Reactathon 2019](https://www.youtube.com/watch?v=mtjHxwUQUs0&t=9326s)

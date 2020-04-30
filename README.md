@@ -1,10 +1,7 @@
 Current ideas and submissions for Conferences in 2020
 
+_will need to update the dates_
 
-
-
-
-*will need to update the dates*
 ## Conferences
 
 - [ ] Elm In The Spring, April 16, 2019
@@ -15,6 +12,10 @@ Current ideas and submissions for Conferences in 2020
   - [Homepage](https://www.reactathon.com/)
   - [Tickets](https://ti.to/real-world-react/reactathon-2019)
   - [CFP](https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform?usp=sf_link)
+- [x] Gatsby JS Days
+  - [Homepage](https://www.gatsbyjs.com/resources/gatsby-days/)
+  - [Tickets](https://www.gatsbyjs.com/virtual-gatsby-days-registration/?_ga=2.204071572.584185016.1586719074-408081821.1578667579)
+  - [CPF](https://docs.google.com/forms/d/e/1FAIpQLSfjUpqpmRL18ydo_PmC4jxvPG8xhOlix43KeRHOhUbPp3u7Mw/viewform)
 - [] JS Conf 2019, Aug 12-14th
   - [Homepage](https://2019.jsconf.us/)
   - [Tickets](https://ti.to/jsconf-us/jsconf-us-2019)
